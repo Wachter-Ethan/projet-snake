@@ -81,6 +81,7 @@ function checkCollisions() {
             }
         }
     }
+
 }
 
 // Génère une nouvelle position de nourriture
